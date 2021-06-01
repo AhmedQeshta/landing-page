@@ -1,0 +1,432 @@
+
+
+
+.jumbotron {
+
+background-image: url("../imgs/header-img2.jpg");
+color: rgb(25, 194, 19) ;
+background-repeat: no-repeat ;
+background-size: 100% ; 
+margin: 0px;
+
+}
+.jumbotron-class{
+    background-image: url("../imgs/header-img2.jpg") ;
+    min-height: 600px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;  
+    background-size: cover;
+    /* color: #ecf0f1;   */
+    padding-top : 1px ;
+    
+}
+.mypad{
+    margin-top: 50px;
+}
+.mypad1{
+    margin-top:10%;
+   
+}
+
+.mylead{
+    background-color: rgba(197, 95, 37, 0.294);
+    border-radius: 30px ;
+    padding: 25px;
+    margin-top: 1px ;
+
+}
+
+#Product{
+
+   
+    background-color: #ecf0f1 ;
+    
+}
+.mypadding{
+    padding: 35px; 
+}
+
+.my_paddingp_srvice{
+    
+      padding-left: 80px
+      
+}
+
+/* .mycol{
+    padding-left: 30px;
+    padding-right: 30px ;
+    
+} */
+
+.liststyle{
+    list-style-type: none;
+}
+.myText{
+    text-align: center ;
+}
+
+.mymargin{
+    margin-top: 100px;
+}
+
+.service_Padding{
+    padding: 25px ;
+    
+}
+
+#price{
+    background-color: #d6d6c2;
+    padding: 35px;
+    padding-top: 100px;
+
+}
+
+.mycard2{
+    padding-top: 80px;
+    
+}
+
+
+
+.buss{
+    padding: 30px;
+    margin: 30px ;
+}
+
+.my-text{
+    font-size: 12px;
+    text-align: justify;
+    }
+
+    /* .iconcolor{
+        color: rgb(65, 158, 52) ;
+    }
+    .card{
+        box-shadow: 1px 10px 30px 2px ; 
+    } */
+
+
+/* new  */
+
+    .business-class{
+        background-image: url("../imgs/buss1.jpg") ;
+        min-height: 600px;
+        background-attachment: fixed;
+        background-position: center;
+        background-repeat: no-repeat;  
+        background-size: cover;
+        /* color: #ecf0f1;   */
+        padding-top : 1px ;
+        
+        
+    }
+
+.myBtoo{
+    padding-bottom: 60px;
+}
+    
+    .business{
+        background:#fff;
+        padding:10px 10px;
+        border:1px solid #ececec;
+        box-shadow:2px 2px 5px 0 rgba(55,50,40, .20);
+        -webkit-box-shadow:2px 2px 5px 0 rgba(55,50,40, .20);
+        -moz-box-shadow:2px 2px 5px 0 rgba(55,50,40, .20);
+        -o-box-shadow:2px 2px 5px 0 rgba(55,50,40, .20);
+        -ms-box-shadow:2px 2px 5px 0 rgba(55,50,40, .20);
+        transition:.3s ease-in-out;
+        -moz-transition:.3s ease-in-out;
+        -webkit-transition:.3s ease-in-out;
+    }
+    .business:hover{
+        background:#82ca9c;
+        color:#fff;
+    }
+    .business:hover i {
+        color:#fff;
+    }
+    .business:hover h4 {
+        color:#fff;
+    }
+    .business:hover p {
+        color:#fff;
+    }
+    
+    .business i{
+        font-size:60px;
+        color:#82ca9c;
+        margin-bottom: 20px;
+    }
+    .business h4{
+        font-size:16px;
+        color:#000;
+        text-transform:uppercase;
+        font-weight:600;
+        letter-spacing:1px;
+        margin-top:15px;
+    }
+    .business p{
+        font-size:12px;
+        color:#777777;
+    }
+    
+    
+    .myspan{
+
+        color: #34495E;
+    }
+    
+    
+    #contact{
+        padding-top: 100px;
+        background-color: #b7c3c7;
+        padding: 30px;
+    }
+    
+    #footer{
+        padding-top: 60px;
+        padding-bottom: 20px;
+        background-color: #34495e;
+    color: #ecf0f1;
+    }
+  
+    
+    .fixUl{
+        padding-left:0;
+    }
+    
+    
+    
+     
+     /* #myinfo{
+         background-color: #bdc3c7;
+         padding-top: 0px;
+         padding-bottom: 0px;
+     } */
+    
+     #myteam{
+         
+        padding-top: 100px;
+        padding-bottom: 100px;
+     }
+    
+    
+    
+     a:hover {
+        color: #B1DBB3;
+    }
+    
+    a{
+        color: #8e44ad;
+    }
+    
+    .navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show > .nav-link {
+       
+        color: #2c3e50;
+    }
+    
+    .mysize{
+        width: 100px;
+        height: 600px;
+        background-color: none ;
+    }
+    
+    
+    #btnScroll{
+        display: none;
+        position: fixed;
+        bottom: 25px;
+        right: 25px;
+        z-index: 99;
+        cursor: pointer;
+        padding: 10px;
+        border-radius: 80px;
+        border: #000;   
+    
+    }
+    
+    
+    @media (max-width: 575px) { 
+        h1{
+            font-size: 16px;
+        }
+        p{
+            font-size: 16px;
+        }
+     }
+    
+     
+    @media (max-width: 767px) { 
+        
+        h1{
+            font-size: 16px;
+        }
+        p{
+            font-size: 16px;
+        }
+     }
+    
+     
+    @media (max-width: 991px) {
+        
+        h1{
+            font-size: 16px;
+        }
+        p{
+            font-size: 16px;
+        }
+     }
+    
+    
+    @media (max-width: 1199px) {
+        h1{
+            font-size: 16px;
+        }
+        p{
+            font-size: 16px;
+        }
+     }
+
+     .myconect a{
+         color: #000 ;
+     }
+    .myconect a:hover {
+        color: rgb(228, 36, 36) ;
+        
+    }
+
+
+    .navbar-dark .navbar-nav .nav-link {
+        color: rgba(65, 231, 23, 0.5);
+    }
+
+
+    .main-list{
+       align-items: center;
+       /* لجعل القائمة بجانب بعض */
+       display: flex; 
+    }
+    .list-style2{
+        margin: 2px;
+        padding: 2px ;
+        
+
+    }
+    .List-style3{
+        margin: 2px;
+        padding: 2px ;
+        padding-right: 10px;
+        align-items: center; 
+    }
+
+    .main-list a{
+        color: #000;
+    }
+    .list-style3 a:hover {
+    color: rgb(0, 25, 248) ;
+    }
+    .list-Style3 a:hover {
+    color: rgb(40, 149, 221) ;
+    }
+    .list-sTyle3 a:hover {
+    color: rgb(211, 22, 22) ;
+    }
+    .list-stYle3 a:hover {
+    color: rgb(160, 139, 23) ;
+    }
+
+
+ /* new btn sigin  */
+
+ .main-hr {
+    width: 30%;
+    border: none;
+    border-top: 1px solid #000000;
+  }
+  .icon-btn {
+    width: 30px;
+    height: 30px;
+    border: 1px solid #3ea81d;
+    background: #3ea81d;
+    border-radius: 25px;
+    overflow: hidden;
+    position: relative;
+    transition: width 0.2s ease-in-out;
+  }
+  .add-btn:hover {
+    width: 110px;
+  }
+  .add-btn::before,
+  .add-btn::after {
+    transition: width 0.2s ease-in-out, border-radius 0.2s ease-in-out;
+    content: "";
+    position: absolute;
+   
+    height: 4px;
+    width: 10px;
+    top: calc(50% - 2px);
+    background: rgb(255, 255, 255);
+  }
+  .add-btn::after {
+    background-image: url("../imgs/buss1.jpg") ;
+    right: 14px;
+    overflow: hidden;
+    border-top-right-radius: 2px;
+    border-bottom-right-radius: 2px;
+  }
+  .add-btn::before {
+    background-image: url("../imgs/buss1.jpg") ;
+    left: 14px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+  }
+  .icon-btn:focus {
+    outline: none;
+  }
+  .btn-txt {
+    opacity: 10;
+    transition: opacity 0.2s;
+  }
+  .add-btn:hover::before,
+  .add-btn:hover::after {
+    width: 4px;
+    border-radius: 20px;
+  }
+  .add-btn:hover .btn-txt {
+    opacity: 1;
+   
+  }
+  .add-icon::after,
+  .add-icon::before {
+    transition: all 0.2s ease-in-out;
+    content: "";
+    position: absolute;
+    /* height: 20px;
+    width: 10px; */
+    top: calc(50% - 10px);
+    background: rgb(255, 255, 255);
+    overflow: hidden;
+    
+  }
+  .add-icon::before {
+    left: 22px;
+    border-top-left-radius: 2px;
+    border-bottom-left-radius: 2px;
+  }
+  .add-icon::after {
+    right: 22px;
+    border-top-right-radius: 2px;
+    border-bottom-right-radius: 2px;
+  }
+  .add-btn:hover .add-icon::before {
+    left: 15px;
+    height: 40px;
+    top: calc(50% - 2px);
+  }
+  .add-btn:hover .add-icon::after {
+    right: 15px;
+    height: 4px;
+    top: calc(50% - 2px);
+  }
+  
